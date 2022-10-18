@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "amogus",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "flow",
+  "license": "ISC",
+  "dependencies": {
+    "country-state-picker": "^1.1.5",
+    "discord.js": "^13.1.0",
+    "weather-js": "^2.0.0"
+  },
+  "keywords": []
+}
